@@ -1,3 +1,5 @@
+package numbers;
+
 public class Multiples {
 
     public static int multiples(int number){

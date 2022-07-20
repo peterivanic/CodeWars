@@ -1,3 +1,5 @@
+package numbers;
+
 public class CompSame {
 
     public static boolean comp(int[] array1, int[] array2) {
